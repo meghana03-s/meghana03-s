@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Full-Stack Java Developer & Data Enthusiast<br><br>**About Me**<br><br>I'm a passionate full-stack Java developer with a strong foundation in software development. I'm also deeply interested in data analysis and machine learning, leveraging my skills to extract valuable insights from data. <br><br>**Education**<br><br>  * Bachelor of Computer Applications (BCA)<br>  * Vijaya College, Jayanagar<br> 
+#Full-Stack Java Developer & Data Enthusiast<br><br>**About Me**<br><br>I'm a passionate full-stack Java developer with a strong foundation in software development. I'm also deeply interested in data analysis and machine learning, leveraging my skills to extract valuable insights from data. <br><br>**Education**<br><br>  * Bachelor of Computer Applications (BCA)<br>  * Vijaya College, Jayanagar<br> 
 
 
 ## 🌐 Socials:
